@@ -1,0 +1,6837 @@
+@media  screen and (max-width:289px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 26px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 10px;
+        position: relative;
+        left: -10px;
+        top: 2px;
+    }
+    .logo img{
+        width: 34px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 0px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: -1px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 15px;
+        width: 14px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 30px;
+        left: -8px;
+        position: relative;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1rem;
+    bottom: 178px;
+    left: 5px;
+
+}
+.p{
+    bottom: 178px;
+    left: 3px;
+    position: relative;
+    font-size: .8rem;
+}
+.profile{
+    height: 107px;
+    width: 98px;
+    position: relative;
+    bottom: 254px;
+    left: 181px;
+
+}
+.profile1{
+    height: 107px;
+    width: 98px;
+    position: relative;
+    bottom: 254px;
+    left: 79px;
+}
+
+.profile2{
+    height: 107px;
+    width: 98px;
+    position: relative;
+    bottom: 365px;
+    left: 181px;
+}
+.profile3{
+    height: 107px;
+    width: 98px;
+    position: relative;
+    bottom: 365px;
+    left: 79px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: -9px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 3px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 50px;
+}
+.mail {
+    color: white;
+    font-size: .7rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 54px;
+    position: relative;
+    left: 53px;
+    height: 15px;
+    top: 43px;
+    font-size: .6rem;
+}
+.num {
+    color: white;
+    font-size: .7rem;
+    position: relative;
+    left: 12px;
+    top: 57px;
+}
+.num1 {
+    width: 54px;
+    position: relative;
+    left: 15px;
+    height: 15px;
+    top: 54px;
+    font-size: .4rem;
+}
+.msg {
+    
+        color: white;
+        font-size: .7rem;
+        position: relative;
+        left: 14px;
+    top: 68px;
+    
+}
+.msg1 {
+    width: 54px;
+    position: relative;
+    left: 31px;
+    height: 15px;
+    top: 71px;
+    font-size: .4rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 67px;
+    position: relative;
+
+    top: 88px;
+    font-size: .7rem;
+
+}
+.btn2{
+    width: 43px;
+    height: 18px;
+    left: 7px;
+    position: relative;
+    top: 112px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media  screen and (min-width:290px) and (max-width:343px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 26px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 14px;
+        position: relative;
+        left: -10px;
+        top: 2px;
+    }
+    .logo img{
+        width: 34px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 0px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: -1px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 15px;
+        width: 14px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 30px;
+        left: -8px;
+        position: relative;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1rem;
+    bottom: 178px;
+    left: 19px;
+
+}
+.p{
+    bottom: 178px;
+    left: 16px;
+    position: relative;
+    font-size: .8rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 197px;
+
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 73px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 197px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 73px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: -9px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 3px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 50px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 78px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .6rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+    top: 57px;
+}
+.num1 {
+    width: 78px;
+    position: relative;
+    left: 15px;
+    height: 15px;
+    top: 54px;
+    font-size: .4rem;
+}
+.msg {
+    
+        color: white;
+        font-size: 1rem;
+        position: relative;
+        left: 14px;
+    top: 68px;
+    
+}
+.msg1 {
+    width: 78px;
+    position: relative;
+    left: 31px;
+    height: 15px;
+    top: 71px;
+    font-size: .4rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 67px;
+    position: relative;
+
+    top: 88px;
+    font-size: .7rem;
+
+}
+.btn2{
+    width: 43px;
+    height: 18px;
+    left: 64px;
+    position: relative;
+    top: 89px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media  (min-width:344px)  and (max-width:367px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 26px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 14px;
+        position: relative;
+        left: -10px;
+        top: 2px;
+    }
+    .logo img{
+        width: 34px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 0px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: -1px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 15px;
+        width: 14px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 30px;
+        left: -8px;
+        position: relative;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1rem;
+    bottom: 178px;
+    left: 19px;
+
+}
+.p{
+    bottom: 178px;
+    left: 16px;
+    position: relative;
+    font-size: .8rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 197px;
+
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 73px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 197px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 73px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: -9px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 3px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 50px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 78px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .6rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+    top: 57px;
+}
+.num1 {
+    width: 78px;
+    position: relative;
+    left: 15px;
+    height: 15px;
+    top: 54px;
+    font-size: .4rem;
+}
+.msg {
+    
+        color: white;
+        font-size: 1rem;
+        position: relative;
+        left: 14px;
+    top: 68px;
+    
+}
+.msg1 {
+    width: 78px;
+    position: relative;
+    left: 31px;
+    height: 15px;
+    top: 71px;
+    font-size: .4rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 118px;
+    position: relative;
+
+    top: 88px;
+    font-size: .7rem;
+
+}
+.btn2{
+
+    width: 43px;
+    height: 18px;
+    left: -109px;
+    position: relative;
+
+    top: 112px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media   (min-width:368px) and (max-width:377px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 26px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 16px;
+        position: relative;
+        left: -7px;
+        top: 2px;
+    }
+    .logo img{
+        width: 34px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 2px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: 14px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 18px;
+        width: 18px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 48px;
+        font-size: .6rem;
+        position: relative;
+        left: -6px;
+    
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1rem;
+    bottom: 178px;
+    left: 34px;
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: .8rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 218px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 94px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: -30px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 218px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: -9px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 3px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 73px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+    top: 57px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: 15px;
+    height: 15px;
+    top: 54px;
+    font-size: .5rem;
+}
+.msg {
+    
+        color: white;
+        font-size: 1rem;
+        position: relative;
+        left: 14px;
+    top: 68px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 31px;
+    height: 15px;
+    top: 71px;
+    font-size: .5rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 80px;
+    position: relative;
+    bottom: 20px;
+    top: 88px;
+    font-size: .7rem;
+
+}
+.btn2{
+    position: relative;
+    top: 89px;
+    left: 76px;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media   (min-width:378px) and (max-width:431px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 26px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 16px;
+        position: relative;
+        left: -7px;
+        top: 2px;
+    }
+    .logo img{
+        width: 34px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 2px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: 14px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 18px;
+        width: 18px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 48px;
+        font-size: .6rem;
+        position: relative;
+        left: -6px;
+    
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1rem;
+    bottom: 178px;
+    left: 34px;
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: .8rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 218px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 94px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: -30px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 218px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: -9px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 3px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 73px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+    top: 57px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: 15px;
+    height: 15px;
+    top: 54px;
+    font-size: .5rem;
+}
+.msg {
+    
+        color: white;
+        font-size: 1rem;
+        position: relative;
+        left: 14px;
+    top: 68px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 31px;
+    height: 15px;
+    top: 71px;
+    font-size: .5rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 128px;
+    position: relative;
+    bottom: 20px;
+    top: 88px;
+    font-size: .7rem;
+
+}
+.btn2{
+    position: relative;
+    top: 112px;
+    left: -117px
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media   (min-width:432px) and (max-width:473px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 30px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 18px;
+        position: relative;
+        left: 1px;
+        top: 2px;
+    }
+    .logo img{
+        width: 57px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 0px;
+        width: 40px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: 35px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 15px;
+        width: 14px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 30px;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1.3rem;
+    bottom: 178px;
+    left: 34px;
+
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: 1rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 279px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 155px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: 31px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 279px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: 0px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 47px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+
+    left: 4.5px;
+
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+  
+    left: 4.5px;
+
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+
+    left: 4.5px;
+
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+   
+    left: 4.5px;
+
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 79px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -158px;
+    top: 81px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: 124px;
+    height: 15px;
+    top: 53px;
+    font-size: .5rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -91px;
+    top: 93px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 126px;
+    height: 15px;
+    top: 71px;
+    font-size: .5rem;
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: -9px;
+    position: relative;
+    bottom: 20px;
+    top: 112px;
+    font-size: .7rem;
+
+}
+
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+@media   (min-width:474px) and (max-width:529px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 30px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 20px;
+        position: relative;
+        left: 1px;
+        top: 2px;
+    }
+    .logo img{
+        width: 65px;
+        height: 30px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 0px;
+        /* width: 40px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: 23px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        background: #4fb0ce;
+        height: 7px;
+    }
+    .search-box .a{
+        height: 15px;
+        width: 14px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 73px;
+        left: -7px;
+        position: relative;
+        font-size: .6rem;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1.3rem;
+    bottom: 178px;
+    left: 34px;
+
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: 1rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 334px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 210px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: 86px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 378px;
+    left: 334px;
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: 0px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 47px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+
+    left: 4.5px;
+
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 34%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 48px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+  
+    left: 4.5px;
+
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+
+    left: 4.5px;
+
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+   
+    left: 4.5px;
+
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 2px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 79px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 12px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 58px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -158px;
+    top: 81px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: 124px;
+    height: 15px;
+    top: 53px;
+    font-size: .5rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -91px;
+    top: 93px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: -74px;
+    height: 15px;
+    top: 98px;
+    font-size: .5rem;
+
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 103px;
+    position: relative;
+    bottom: 20px;
+    top: 112px;
+    font-size: .7rem;
+
+}
+
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+}
+}
+
+@media   (min-width:530px) and (max-width:597px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 41px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 24px;
+        position: relative;
+        left: -1px;
+        top: 2px;
+    }
+    .logo img{
+        width: 66px;
+        height: 46px;
+        position: relative;
+        right: 13px;
+    }
+    .search-box{
+        height: 3px;
+        /* width: 90px; */
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        left: 29px;
+        background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 20px;
+        width: 21px;
+        font-size: .5rem;
+        bottom: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .search-box:hover .search{
+        width: 83px;
+        height: 16px;
+        left: -2px;
+        position: relative;
+        font-size: 0.6rem;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1.5rem;
+    bottom: 178px;
+    left: 34px;
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: 1.2rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 365px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 241px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: 116px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 121px;
+    position: relative;
+    bottom: 254px;
+    left: -8px;
+
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: 6px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 60px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 42%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 70px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 5px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 3px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 101px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 100px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 151px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -69px;
+    top: 81px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: 217px;
+    height: 15px;
+    top: 53px;
+    font-size: .5rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -2px;
+    top: 93px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 19px;
+    height: 15px;
+    top: 97px;
+    font-size: .5rem;
+
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 155px;
+    position: relative;
+    top: 107px;
+    font-size: .7rem;
+
+
+}
+.btn1{
+
+    width: 43px;
+    height: 18px;
+    left: 154px;
+    position: relative;
+   
+    top: 107px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+    width: 100%;
+}
+}
+
+@media   (min-width:598px) and (max-width:742px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 41px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 24px;
+        position: relative;
+        left: 29px;
+        top: 2px;
+    }
+    .logo img{
+        width: 66px;
+        height: 46px;
+        position: relative;
+        right: 7px;
+    }
+    .search-box{
+        height: 3px;
+    /* width: 90px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    left: 73px;
+    top: 1px;
+    background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 22px;
+        width: 22px;
+        font-size: .5rem;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        top: 1px;
+    }
+    .search-box:hover .search{
+        width: 101px;
+        left: -2px;
+        position: relative;
+        font-size: 0.6rem;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 1.5rem;
+    bottom: 178px;
+    left: 34px;
+
+}
+.p{
+    bottom: 178px;
+    left: 30px;
+    position: relative;
+    font-size: 1.2rem;
+}
+.profile{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 365px;
+}
+.profile1{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 254px;
+    left: 241px;
+}
+
+.profile2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+
+    left: 116px;
+    top: -254px;
+}
+.profile3{
+    height: 120px;
+    width: 121px;
+    position: relative;
+    bottom: 254px;
+    left: -8px;
+
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1rem;
+    position: relative;
+    left: 6px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 60px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 16px;
+    width: 63px;
+    top: 147px;
+    left: -31px;
+    font-size: 0.67rem;
+}
+.box1 h2{
+    font-size: 1rem;
+}
+.na{
+    font-size: .6rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 200px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 51px;
+    width: 74px;
+    position: relative;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -1px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 200px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 42%;
+    font-size: 1rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 70px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 5px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1rem;
+    position: relative;
+
+    left: -30px;
+    top: -43px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 3px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 101px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 100px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 151px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -69px;
+    top: 81px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: -62px;
+    height: 15px;
+    top: 78px;
+    font-size: .5rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 102px;
+    top: 93px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 126px;
+    height: 15px;
+    top: 97px;
+    font-size: .5rem;
+
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: -40px;
+    position: relative;
+    top: 134px;
+    font-size: .7rem;
+
+}
+.btn1{
+
+    width: 43px;
+    height: 18px;
+    left: -32px;
+    position: relative;
+    top: 134px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+    width: 100%;
+}
+}
+@media   (min-width:743px) and (max-width:907px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 41px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 28px;
+        position: relative;
+        left: 60px;
+        top: 2px;
+    }
+    .logo img{
+        width: 66px;
+        height: 46px;
+        position: relative;
+        right: -1px;
+    }
+    .search-box{
+        height: 3px;
+    /* width: 90px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    left: 153px;
+    top: 1px;
+    background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 22px;
+        width: 22px;
+        font-size: .5rem;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        top: 1px;
+    }
+    .search-box:hover .search{
+        width: 107px;
+        left: -2px;
+        position: relative;
+        font-size: 0.6rem;
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 2rem;
+    bottom: 178px;
+    left: 79px;
+
+}
+.p{
+    bottom: 178px;
+    left: 42px;
+    position: relative;
+    font-size: 1.8rem;
+}
+.profile{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    bottom: 283px;
+    left: 515px;
+}
+.profile1{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    bottom: 283px;
+    left: 348px;
+}
+
+.profile2{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    left: 181px;
+    top: -283px;
+}
+.profile3{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    bottom: 283px;
+    left: 14px;
+
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1.5rem;
+    position: relative;
+    left: 6px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 60px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 231px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 64px;
+    width: 81px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 19px;
+    width: 75px;
+    top: 190px;
+    left: -33px;
+}
+.box1 h2{
+    font-size: 1.5rem;
+}
+.na{
+    font-size: .7rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 231px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 59px;
+    width: 137px;
+    position: relative;
+    left: 6px;
+    border-radius: 50%;
+
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -4px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 231px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 42%;
+    font-size: 1.5rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1.3rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 97px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 5px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1.5rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1.5rem;
+    position: relative;
+
+    left: -30px;
+    top: -38px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .7rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .7rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 14px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 3px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 166px;
+}
+.mail {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: 100px;
+}
+.mail1 {
+    width: 100px;
+    position: relative;
+    left: 151px;
+    height: 15px;
+    top: 43px;
+    font-size: .7rem;
+}
+.num {
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -69px;
+    top: 81px;
+}
+.num1 {
+    width: 100px;
+    position: relative;
+    left: -62px;
+    height: 15px;
+    top: 78px;
+    font-size: .5rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1rem;
+    position: relative;
+    left: -280px;
+    top: 119px;
+    
+}
+.msg1 {
+    width: 100px;
+    position: relative;
+    left: 219px;
+    height: 15px;
+    top: 97px;
+    font-size: .5rem;
+
+}
+.btn{
+
+    width: 43px;
+    height: 18px;
+    left: 66px;
+    position: relative;
+    top: 134px;
+    font-size: .7rem;
+
+}
+.btn1{
+
+    width: 43px;
+    height: 18px;
+    left: 77px;
+    position: relative;
+    top: 134px;
+    font-size: .7rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+    width: 100%;
+}
+}
+@media   (min-width:908px) and (max-width:1064px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 41px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 31px;
+        position: relative;
+        left: 90px;
+        top: 2px;
+    }
+    .logo img{
+        width: 94px;
+        height: 46px;
+        position: relative;
+        right: -1px;
+    }
+    .search-box{
+        height: 3px;
+    /* width: 90px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    left: 218px;
+    top: 1px;
+    background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 22px;
+        width: 22px;
+        font-size: .5rem;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        top: 1px;
+    }
+    .search-box:hover .search{
+
+        width: 155px;
+        height: 18px;
+        left: -2px;
+        position: relative;
+        font-size: 14px;
+    
+     
+        
+    }
+    .container{
+        height: 346px;
+    }
+    .slider img{
+        width: 100%;
+        height: 336px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 2rem;
+    bottom: 178px;
+    left: 79px;
+
+}
+.p{
+    bottom: 178px;
+    left: 42px;
+    position: relative;
+    font-size: 1.8rem;
+}
+.profile{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    bottom: 283px;
+    left: 653px;
+}
+.profile1{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    bottom: 283px;
+    left: 486px;
+}
+
+.profile2{
+    height: 162px;
+    width: 163px;
+    position: relative;
+    left: 320px;
+    top: -283px;
+}
+.profile3{
+    height: 162px;
+    width: 164px;
+    position: relative;
+    bottom: 283px;
+    left: 152px;
+
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 975px;
+    
+}
+.container1 .h{
+    font-size: 1.5rem;
+    position: relative;
+    left: 6px;
+}
+
+.main{
+    flex-direction: column;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 60px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 231px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: -3px;
+}
+.box-img {
+    height: 64px;
+    width: 81px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 19px;
+    width: 75px;
+    top: 190px;
+    left: -33px;
+}
+.box1 h2{
+    font-size: 1.5rem;
+}
+.na{
+    font-size: .7rem;
+}
+#name{
+    position: relative;
+    top: -12px;
+}
+#r{
+    position: relative;
+    top: -12px;
+}
+.box2 {
+    margin: 2px;
+    width: 231px;
+    height: 275px;
+    border-top-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 59px;
+    width: 137px;
+    position: relative;
+    left: 6px;
+    border-radius: 50%;
+
+}
+
+.box2 h2{
+    font-size: 1rem;
+}
+.na1{
+    font-size: .7rem;
+    position: relative;
+    top: 10px;
+}
+.na3{
+    font-size: .7rem;
+    position: relative;
+    top: -4px;
+    left: 105px;
+}
+
+#name1{
+    position: relative;
+    top: -1px;
+    font-size: .7rem;
+}
+.box3 {
+    margin: 11px;
+    width: 231px;
+    height: 275px;
+    border-top-right-radius: 39px;
+    border-bottom-left-radius: 39px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 83px;
+    width: 185px;
+}
+.box3  h2{
+    font-size: 1rem;
+}
+.fa{
+    font-size: 1.8rem;
+    position: relative;
+    left: 52px;
+    top: 16px;
+}
+.fb{
+    font-size: 1.8rem;
+    position: relative;
+    left: 88px;
+    top: 20px;
+}
+.insta {
+    position: relative;
+    top: 62px;
+    font-size: 1.8rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 63px;
+    font-size: 1.8rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 106px;
+    font-size: 1.8rem;
+    left: -77px
+
+}
+.link{
+    position: relative;
+    top: 108px;
+    font-size: 1.8rem;
+    left: -34px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 42%;
+    font-size: 1.5rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1.3rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 118px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 5px;
+    height: 1000px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 1.5rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+}
+.project {
+    width: 279px;
+    height: 290px;
+    margin: 10px;
+    position: relative;
+    top: -57px;
+}
+.project-img {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    height: 165px;
+
+}
+.video {
+    border-top-right-radius: 24%;
+    border-top-left-radius: 24%;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 165px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 965px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 1.5rem;
+    position: relative;
+
+    left: -30px;
+    top: -38px;
+}
+.re1 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -30px;
+}
+.client {
+    height: 124px;
+    width: 210px;
+}
+.rank {
+    position: relative;
+    left: 125px;
+    font-size: 1rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .8rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 19px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: -14px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .8rem;
+}
+.rank1{
+    font-size: 1rem;
+}
+.client2{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 19px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 210px;
+    height: 285px;
+    position: relative;
+    left: -1px;
+    top: 0px;
+}
+.client3{
+    height: 124px;
+    width: 210px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 116px;
+    font-size: 1rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 3px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 1rem;
+    top: 27px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 166px;
+}
+.mail {
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: 168px;
+}
+.mail1 {
+    width: 164px;
+    position: relative;
+    left: 245px;
+    height: 18px;
+    top: 41px;
+    font-size: .87rem;
+}
+.num {
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: -83px;
+    top: 81px;
+}
+.num1 {
+    width: 164px;
+    position: relative;
+    left: -62px;
+    height: 18px;
+    top: 78px;
+    font-size: .8rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: 173px;
+    top: 92px;
+    
+}
+.msg1 {
+    width: 164px;
+    position: relative;
+    left: 213px;
+    height: 18px;
+    top: 95px;
+    font-size: .8rem;
+
+}
+.btn{
+
+    width: 60px;
+    height: 24px;
+    left: -39px;
+    position: relative;
+    top: 134px;
+    font-size: 1rem;
+
+}
+.btn1{
+
+    width: 60px;
+    height: 24px;
+    left: -27px;
+    position: relative;
+    top: 134px;
+    font-size: 1rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+    width: 100%;
+}
+}
+@media   (min-width:1065px) and (max-width:1221px) {
+   
+    .navbar{
+      width: 100%;  
+      height: 44px;
+      position: fixed;
+      background: linear-gradient(to right bottom, #cde7f1, #2eb0e38c,#fff);
+    }
+    .navbar ul li a{
+        font-size: 35px;
+        position: relative;
+        left: 168px;
+        top: 2px;
+    }
+    .logo img{
+        width: 94px;
+        height: 47px;
+        position: relative;
+        right: -1px;
+    }
+    .search-box{
+        height: 11px;
+    /* width: 90px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    left: 300px;
+    top: 1px;
+    background: #4fb0ce;
+    }
+    .search{
+        width: 0px;
+        font-size: 7px;
+        position: relative;
+        bottom: 124px;
+        
+        height: 7px;
+    }
+    .search-box .a{
+        height: 30px;
+    width: 32px;
+    font-size: .8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 1px;
+    }
+    .search-box:hover .search{
+
+        width: 229px;
+        height: 18px;
+        left: -2px;
+        position: relative;
+        font-size: 16px;
+        top: 1px;
+    
+     
+        
+    }
+    .container{
+        height: 370px;
+    }
+    .slider img{
+        width: 100%;
+        height: 370px;
+        overflow: hidden;
+    }
+.heading{
+    font-size: 2rem;
+    bottom: 164px;
+    left: 149px;
+
+}
+.p{
+    bottom: 169px;
+    left: 107px;
+    position: relative;
+    font-size: 1.8rem;
+}
+.profile{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    bottom: 291px;
+    left: 757px;
+}
+.profile1{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    bottom: 291px;
+    left: 573px;
+}
+
+.profile2{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    left: 389px;
+    top: -291px;
+}
+.profile3{
+    height: 180px;
+    width: 180px;
+    position: relative;
+    bottom: 291px;
+    left: 205px;
+
+
+}
+.container1{
+ 
+    width: 100%;
+    height: 637px;
+    
+}
+.container1 .h{
+    font-size: 2rem;
+    position: relative;
+    left: 6px;
+}
+
+.main{
+    flex-direction: row;
+    width: 78%;
+    height: 93%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 123px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.box1 {
+    margin: 11px;
+    width: 256px;
+    height: 386px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    position: relative;
+    top: -3px;
+    font-weight: bolder;
+}
+.box-img {
+    height: 64px;
+    width: 81px;
+    position: relative;
+    left: 37px;
+    border-radius: 50%;
+}
+.bu{
+    position: relative;
+    /* bottom: 234px; */
+    height: 19px;
+    width: 75px;
+    top: 270px;
+    left: -33px;
+}
+.box1 h2{
+    font-size: 1.5rem;
+}
+.na{
+    font-size: .9rem;
+}
+#name{
+    position: relative;
+    top: -15px;
+}
+#r{
+    position: relative;
+    top: -18px;
+}
+.box2 {
+    margin: 2px;
+    width: 256px;
+    height: 386px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    position: relative;
+    top: -5px;
+
+}
+.box-img1 {
+    height: 69px;
+    width: 137px;
+    position: relative;
+    left: 6px;
+    border-radius: 50%;
+
+}
+
+.box2 h2{
+    font-size: 1.5rem;
+}
+.na1{
+    font-size: .9rem;
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+.na3{
+    font-size: .9rem;
+    position: relative;
+    top: -7px;
+    left: 143px;
+}
+
+#name1{
+    position: relative;
+    top: -8px;
+    font-size: .9rem;
+
+}
+.box3 {
+    margin: 11px;
+    width: 256px;
+    height: 386px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    position: relative;
+    top: 0px;
+
+}
+.box-img2 {
+    height: 63px;
+    width: 156px;
+}
+.box3  h2{
+    font-size: 1.5rem;
+}
+.fa{
+    font-size: 2.5rem;
+    position: relative;
+    left: 52px;
+    top: 41px;
+
+}
+.fb{
+    font-size: 2.5rem;
+    position: relative;
+    left: 88px;
+    top: 41px;
+}
+.insta {
+    position: relative;
+    top: 104px;
+    font-size: 2.5rem;
+    left: -11px;
+
+}
+.git {
+    position: relative;
+    top: 104px;
+    font-size: 2.5rem;
+    left: 14px;
+}
+.tweet{
+    position: relative;
+    top: 172px;
+    font-size: 2.5rem;
+    left: -104px;
+
+}
+.link{
+    position: relative;
+    top: 172px;
+    font-size: 2.5rem;
+    left: -66px;
+}
+.skill{
+    width: 98%;
+    position: relative;
+    left: 5px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.skill h1 {
+    position: relative;
+    left: 42%;
+    font-size: 2rem;
+}
+.skill .p{
+    position: relative;
+    top: 42px;
+    left: 12px;
+    font-size: 1.8rem;
+}
+    .table {
+        width: 73%;
+        position: relative;
+        left: 141px;
+        margin: 0px;
+        padding: 0px;
+        top: 86px;
+}
+.html-p {
+    position: absolute;
+    z-index: 2;
+    top: 37px;
+    left: 98px;
+
+}   
+.css-p {
+    position: absolute;
+    z-index: 2;
+    top: 42px;
+    left: 76px;
+}
+.boot-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 83px;
+
+}
+.j-p {
+    position: absolute;
+    z-index: 2;
+    top: 34px;
+    left: 55px;
+}
+.javas-p {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 42px;
+}
+.other-p {
+    position: absolute;
+    z-index: 2;
+    top: 23px;
+    left: 42px;
+}
+#projects {
+    width: 98%;
+    position: relative;
+    left: 5px;
+    height: 530px;
+}
+#projects .h3{
+    position: relative;
+    top: -30px;
+}
+#projects h1 {
+    position: relative;
+    font-size: 2rem;
+    top: 3px;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    left: 99px;
+    position: relative;
+}
+.project {
+    width: 311px;
+    height: 383px;
+    margin: 10px;
+    position: relative;
+    top: -28px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 135px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 135px;
+}
+.project-img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 135px;
+    border-bottom-left-radius: 95px;
+    border-bottom-right-radius: 2px;
+    height: 165px;
+
+}
+.video {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 135px;
+    border-bottom-left-radius: 95px;
+    border-bottom-right-radius: 2px;
+    height: 200px;
+}
+.review {
+    width: 98%;
+    border-top-right-radius: 116px;
+    border-bottom-left-radius: 116px;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.review h1{
+    font-size: 2rem;
+    position: relative;
+    left: 483px;
+    top: -197px;
+
+}
+.re1 {
+    width: 280px;
+    height: 300px;
+    position: relative;
+    left: -102px;
+    top: 15px;
+}
+.client {
+    height: 150px;
+    width: 280px;
+}
+.rank {
+    position: relative;
+    left: 195px;
+    font-size: 1.5rem;
+}
+.rev {
+    position: relative;
+    bottom: 164px;
+    font-size: .8rem;
+}
+.rev-btn {
+    position: relative;
+    bottom: 127px;
+    width: 68px;
+    height: 19px;
+    font-size: .6rem;
+    left: -10px;
+}
+.re2 {
+    width: 280px;
+    height: 300px;
+    position: relative;
+    left: -62px;
+    top: 15px;
+}
+.rev2 {
+    position: relative;
+    top: -28px;
+
+    font-size: .8rem;
+}
+.rank1{
+    font-size: 1.5rem;
+}
+.client2{
+    height: 150px;
+    width: 280px;
+   
+
+}
+.rev2-btn {
+    position: relative;
+    bottom: -8px;
+    width: 68px;
+    height: 19px;
+    font-size: .6rem;
+    left: 5px;
+}
+.re3 {
+    width: 280px;
+    height: 300px;
+    position: relative;
+    left: -27px;
+    top: 15px;
+}
+.client3{
+    height: 150px;
+    width: 280px;
+   
+
+}
+.rank2 {
+    position: relative;
+    left: 186px;
+    font-size: 1.5rem;
+}
+.contacts {
+    width: 99%;
+    height: 500px;
+    position: relative;
+    left: 3px;
+}
+.contacts h1 {
+    position: relative;
+    font-size: 2rem;
+    top: 37px;
+
+}
+.img1 {
+    height: 100%;
+    position: relative;
+    top: -22px;
+
+}
+.img2 {
+    height: 100%;
+    position: relative;
+    top: -526px;
+}
+.img3 {
+    height: 100%;
+    position: relative;
+    top: -1028px;
+}
+.contact-box{
+    width: 100%;
+}
+.con{
+    width: 64%;
+    height: 230px;
+    position: relative;
+    left: 166px;
+}
+.mail {
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: 168px;
+}
+.mail1 {
+    width: 164px;
+    position: relative;
+    left: 245px;
+    height: 18px;
+    top: 41px;
+    font-size: .87rem;
+}
+.num {
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: -83px;
+    top: 81px;
+}
+.num1 {
+    width: 164px;
+    position: relative;
+    left: -62px;
+    height: 18px;
+    top: 78px;
+    font-size: .8rem;
+}
+.msg {
+    
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    left: -390px;
+    top: 121px;
+    
+}
+.msg1 {
+    width: 164px;
+    position: relative;
+    left: 334px;
+    height: 18px;
+    top: 95px;
+    font-size: .8rem;
+
+}
+.btn{
+
+    width: 60px;
+    height: 24px;
+    left: 96px;
+    position: relative;
+    top: 134px;
+    font-size: 1rem;
+
+}
+.btn1{
+
+    width: 60px;
+    height: 24px;
+    left: 97px;
+    position: relative;
+    top: 134px;
+    font-size: 1rem;
+
+}
+footer{
+    position: relative;
+    left: 0px;
+    top: -417px;
+    width: 100%;
+}
+}
