@@ -6835,7 +6835,7 @@ footer{
     width: 100%;
 }
 }
-@media (min-width:1222) {
+@media (min-width:1331px){
     .mail{
         color: white;
         font-size: 1.5rem;
@@ -6867,8 +6867,8 @@ footer{
     .num1{
         width: 200px;
         position: relative;
-        left: 325px;
-        top: 58px;
+        left: -139px;
+        top: 92px;
         height: 21px;
       border-radius: 20px;
       border-radius: 8px;
@@ -6882,13 +6882,13 @@ footer{
         font-size: 1.5rem;
         position: relative;
         top: 120px;
-        left: -46px;
+        left: 157px;
         overflow: hidden;
     }
     .msg1{
         width: 204px;
         position: relative;
-        left: -17px;
+        left: 185px;
         top: 125px;
         height: 23px;
         resize: none;
@@ -6897,5 +6897,27 @@ footer{
         border: 2px solid black;
         overflow: hidden;
       color: #fff;
+    }
+    .con{
+        font-family: 'Monoton', cursive;
+        width: 50%;
+        left: 24%;
+        position: relative;
+        height: 70%;
+        top: 53px;
+        background-color: #0000006b;
+        overflow: hidden;
+    
+    }
+    .btn{
+        position: relative;
+        top: 167px;
+        width: 55px;
+        height: 25px;
+        border-radius: 12px;
+        left: -46px;
+        background: black;
+        color: white;
+        overflow: hidden;
     }
 }
