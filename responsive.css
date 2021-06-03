@@ -6920,4 +6920,16 @@ footer{
         color: white;
         overflow: hidden;
     }
+    .main{
+        position: relative;
+        left: 143px;
+    }
+    .container .h  {
+        left: 79px;
+        position: relative;
+    }
+    .main2{
+position: relative;
+left: 57px;
+    }
 }
