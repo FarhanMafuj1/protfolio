@@ -639,7 +639,7 @@ animation-delay: 1s;
 @keyframes html{
     to{
         width:80%;
-        background-color:rgb(11, 84, 102);
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.678),rgba(82, 173, 185, 0.781) ,rgba(13, 109, 165, 0.541), rgba(118, 207, 203, 0.925));
     }
 }
 .table li.css::before{
@@ -672,7 +672,7 @@ animation-delay: 1s;
     @keyframes css{
         to{
             width:70%;
-            background-color:rgb(102, 131, 226);
+            background: linear-gradient(to right,rgba(0, 0, 0, 0.822), rgb(85, 122, 131),rgb(52, 140, 167), rgb(63, 155, 184));
         }
     }
 .table li.boot::before{
@@ -707,7 +707,7 @@ animation-delay: 1s;
     @keyframes boot{
         to{
             width:75%;
-            background-color:rgb(7, 48, 102);
+            background: linear-gradient(to right,rgba(0, 0, 0, 0.74), rgba(127, 187, 197, 0.836),rgb(87, 166, 180), rgba(20, 173, 194, 0.87));
         }
     }
 .table li.jquery::before{
@@ -740,7 +740,7 @@ animation-delay: 1s;
     @keyframes jquery{
         to{
             width:50%;
-            background-color:rgb(7, 124, 133);
+            background: linear-gradient(to right,rgba(0, 0, 0, 0.863), rgba(130, 211, 214, 0.904),rgb(59, 130, 172), rgba(9, 130, 167, 0.863));
         }
     }
 .table li.javas::before{
@@ -775,7 +775,7 @@ animation-delay: 1s;
     @keyframes javas{
         to{
             width:40%;
-            background-color:rgb(58, 171, 216);
+            background: linear-gradient(to right,rgba(0, 0, 0, 0.904), rgb(129, 190, 214),rgb(65, 216, 208), rgb(22, 214, 228));
         }
     }
 .table li.other::before{
@@ -808,7 +808,7 @@ left: 0px;
     @keyframes other{
         to{
             width:40%;
-            background-color:rgb(34, 76, 168);
+            background: linear-gradient(to right,rgba(0, 0, 0, 0.904), rgb(129, 190, 214),rgb(65, 216, 208), rgb(22, 214, 228));
         }
     }
 .table li{
@@ -1222,8 +1222,8 @@ transform: scale(.87,.76) translateX(12px);
     overflow: hidden;
 }
 .btn:hover{
-    background-image: linear-gradient( to left top, #0c92bb,#ffffff);
-    color: rgb(0, 0, 0);
+    background-image: linear-gradient( to left bottom, rgb(255, 255, 255),#000000,#ffffff,rgb(0, 0, 0));
+    color: rgba(0, 24, 240, 0.651);
     transition: all .8s linear;
 }
 footer{
@@ -1296,8 +1296,9 @@ footer{
 }
 .na3{
     position: relative;
-    left: 151px;
-    bottom: 18px;
+    left: 119px;
+    bottom: 16px;
+
 }
 .fa{
     position: relative;
@@ -1651,7 +1652,7 @@ z-index: 3;
     100%{
         
     transition: all 0.6s linear 0s;
-    background-image: linear-gradient(#d3c9ca, #000000, #d5cfcf);
+    background-image: linear-gradient(#d3c9ca, #0000005b, #d5cfcf);
     color: rgb(0, 0, 0);
 
     }
